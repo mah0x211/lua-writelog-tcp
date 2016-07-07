@@ -12,6 +12,7 @@ description = {
 }
 dependencies = {
     "lua >= 5.1",
+    "net >= 0.3.0",
     "writelog >= 0.5.0"
 }
 build = {
